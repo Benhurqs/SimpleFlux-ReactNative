@@ -8,7 +8,7 @@ import {
 import {Actions} from 'react-native-router-flux'
 
 
-export default class App extends Component {
+export default class Screen1 extends Component {
 
   confirm() {
     Actions.screen2()
